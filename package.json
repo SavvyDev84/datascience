@@ -1,0 +1,15 @@
+{
+  "name": "hardhat-boilerplate",
+  "version": "1.0.0",
+  "description": "This is the boilerplate for Hardhat Solidity Smart Contract Projects for developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.6"
+  }
+}
